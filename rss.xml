@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Amazing God]]></title>
         <description><![CDATA[Amazing God]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amazing-god/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 19:18:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 21:23:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amazing-god/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SONG OF THE WEEK]]></title>
+            <description><![CDATA[<article><h1>SONG OF THE WEEK</h1><p>Visit the post for more.</p><img src="http://tate.zone/wp-content/uploads/2016/05/image.jpeg"></article>]]></description>
+            <link>http://tate.zone/2016/05/04/song-of-the-week-2/</link>
+            <guid isPermaLink="false">68e81452-751a-4378-b600-d1aa6610ceae</guid>
+            <pubDate>Thu, 05 May 2016 21:22:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Gathering Testimony: Joanna Gaines]]></title>
             <description><![CDATA[<article><h1>The Gathering Testimony: Joanna Gaines</h1><p>Baylor University graduate Joanna Gaines, co-host of HGTV's "Fixer Upper," shares how following God's direction -- even while questioning it -- has led to experiences beyond her wildest dreams. Credits: Produced by Robert Fuller (http://www.fullwritecreative.com) of Antioch Community Church (http://www.antiochcc.com) in Waco, Texas, for The Gathering, held at McLane Stadium on Palm Sunday, March 29, 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82f04bf665745d0e2eb75c47f17faed2d55ae38c.jpg"></article>]]></description>
